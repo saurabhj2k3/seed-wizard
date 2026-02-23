@@ -1,4 +1,4 @@
 node_modules/
 *.sql
-*.json
+
 .DS_Store

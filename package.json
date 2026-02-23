@@ -1,0 +1,35 @@
+{
+  "name": "seed-wizard",
+  "version": "1.0.3",
+  "description": "A dynamic CLI tool to generate realistic SQL and JSON seed data with progress bars.",
+  "main": "index.js",
+  "bin": {
+    "seed-wizard": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bin/cli.js"
+  },
+  "keywords": [
+    "seed",
+    "faker",
+    "sql",
+    "mongodb",
+    "cli",
+    "data-generator"
+  ],
+  "author": "Saurabh Jadhav",
+  "license": "MIT",
+  "dependencies": {
+    "@faker-js/faker": "^9.9.0",
+    "chalk": "^4.1.2",
+    "cli-progress": "^3.12.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhj2k3/seed-wizard.git"
+  }
+}
