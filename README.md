@@ -1,4 +1,10 @@
+
 # 🧙‍♂️ Seed Wizard
+
+[![npm version](https://img.shields.io/npm/v/seed-wizard.svg)](https://www.npmjs.com/package/seed-wizard)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Downloads](https://img.shields.io/npm/dm/seed-wizard.svg)](https://www.npmjs.com/package/seed-wizard)
+
 
 > **Stop writing insert statements by hand.** Seed Wizard is a powerful, stretchable CLI tool for generating realistic dummy data for SQL and NoSQL databases — in seconds.
 
