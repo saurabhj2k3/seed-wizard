@@ -1,6 +1,6 @@
 {
   "name": "seed-wizard",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A dynamic CLI tool to generate realistic SQL and JSON seed data with progress bars.",
   "main": "index.js",
   "bin": {
