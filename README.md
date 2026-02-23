@@ -20,7 +20,7 @@
 ## 📦 Installation
 
 ```bash
-npm install -g seed-wizard-cli
+npm install -g seed-wizard
 ```
 
 ---
