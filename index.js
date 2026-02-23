@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const { faker } = require('@faker-js/faker');
 const fs = require('fs');
 const chalk = require('chalk');
